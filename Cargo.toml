@@ -19,7 +19,7 @@ lazy_static = "^1"
 log = "~0.4"
 
 [dependencies.w5500-ll]
-version = "~0.5.1"
+version = "~0.6.0"
 default-features = false
 features = ["std"]
 
